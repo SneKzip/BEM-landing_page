@@ -1,2 +1,2 @@
 # Одностраничный сайт
-# [Simple Demo](https://snekzip.github.io/BEM-landing_page/)
+# <p style = "text-algin: center;">[Simple Demo](https://snekzip.github.io/BEM-landing_page/)</p>
