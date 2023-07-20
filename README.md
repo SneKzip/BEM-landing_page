@@ -2,6 +2,7 @@
 <h2 align = "center">
     <a href = "https://snekzip.github.io/BEM-landing_page/">Simple Demo</a>
 </h2>
+<h3>Макет Figma: <a href = "https://www.figma.com/file/sJwabNIQ83JF9XIGfYCOl4/Simple?node-id=0%3A1&mode=dev">Simple</a></h3>
 <h3 align = "center">Используемые технологии</h3>
 <ul>
     <li><b>HTML</b> 
