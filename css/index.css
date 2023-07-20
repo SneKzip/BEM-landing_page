@@ -1,0 +1,15 @@
+@import url("fonts/fonts.css");
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+:root{
+    --main-color-default: #4C5866;
+    --main-color-hover: #7875FE;
+    --main-color-active: #4946B4;
+    --main-color-text: #85859B;
+    --main-color-bg: #EBEBEB;
+}
